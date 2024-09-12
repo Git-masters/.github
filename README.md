@@ -1,5 +1,4 @@
 Creating engaging and informative text for your GitHub organization can help attract new members, showcase your projects, and establish a strong community identity. Here's a suggestion for interactive text that you could use for your GitHub organization named "Git Masters":
-
 ---
 
 🚀 **Welcome to Git Masters** 🌟
